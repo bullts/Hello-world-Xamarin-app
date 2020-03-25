@@ -1,0 +1,14 @@
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\bin\Debug\netstandard2.0\ConterApp.deps.json
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\bin\Debug\netstandard2.0\ConterApp.dll
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\bin\Debug\netstandard2.0\ref\ConterApp.dll
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\bin\Debug\netstandard2.0\ConterApp.pdb
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\obj\Debug\netstandard2.0\ConterApp.csprojAssemblyReference.cache
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\obj\Debug\netstandard2.0\ConterApp.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\obj\Debug\netstandard2.0\ConterApp.AssemblyInfoInputs.cache
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\obj\Debug\netstandard2.0\ConterApp.AssemblyInfo.cs
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\obj\Debug\netstandard2.0\ConterApp.dll
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\obj\Debug\netstandard2.0\ref\ConterApp.dll
+C:\Users\wikto\Desktop\semestr 6\CounterApp\ConterApp\ConterApp\ConterApp\obj\Debug\netstandard2.0\ConterApp.pdb
